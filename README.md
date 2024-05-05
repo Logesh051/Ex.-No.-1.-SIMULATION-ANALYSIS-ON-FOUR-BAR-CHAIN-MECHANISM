@@ -4,7 +4,7 @@
 
 ## AIM:
 
-###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
+###   To determine & simulate the displacement & velocity anAalysis for the given four bar chain mechanism. 
 
 ###   In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm long and rotates at 100 rpm clockwise, while the link CD = 60mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 600.
 
@@ -53,10 +53,11 @@
 
 
 ## Output:
+![Screenshot 2024-04-22 143330](https://github.com/23006860/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139841752/2f9613df-2629-4437-93a0-e962b821f0d9)
 
 
-### Name:
-### Register Number: 
+### Name:Logesh.N.A
+### Register Number: 212223240078
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
